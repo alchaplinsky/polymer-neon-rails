@@ -1,2 +1,2 @@
-require "polymer-gold-rails/version"
-require "polymer-gold-rails/engine" if defined?(::Rails)
+require "polymer-neon-rails/version"
+require "polymer-neon-rails/engine" if defined?(::Rails)
